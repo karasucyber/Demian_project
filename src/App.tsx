@@ -22,7 +22,7 @@ export default function App() {
       <InfrastructureSection />
       <ValuesSection />
       <InstructorsSection />
-      <ScheduleSection />
+      {/* <ScheduleSection /> */}
       <TestimonialsSection />
       <PartnersSection />
       <CTASection />
